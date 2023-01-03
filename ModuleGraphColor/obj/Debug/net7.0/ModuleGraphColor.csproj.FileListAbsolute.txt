@@ -1,0 +1,15 @@
+D:\Workplace\CSharp\ModuleGraphColor\bin\Debug\net7.0\ModuleGraphColor.exe
+D:\Workplace\CSharp\ModuleGraphColor\bin\Debug\net7.0\ModuleGraphColor.deps.json
+D:\Workplace\CSharp\ModuleGraphColor\bin\Debug\net7.0\ModuleGraphColor.runtimeconfig.json
+D:\Workplace\CSharp\ModuleGraphColor\bin\Debug\net7.0\ModuleGraphColor.dll
+D:\Workplace\CSharp\ModuleGraphColor\bin\Debug\net7.0\ModuleGraphColor.pdb
+D:\Workplace\CSharp\ModuleGraphColor\obj\Debug\net7.0\ModuleGraphColor.csproj.AssemblyReference.cache
+D:\Workplace\CSharp\ModuleGraphColor\obj\Debug\net7.0\ModuleGraphColor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workplace\CSharp\ModuleGraphColor\obj\Debug\net7.0\ModuleGraphColor.AssemblyInfoInputs.cache
+D:\Workplace\CSharp\ModuleGraphColor\obj\Debug\net7.0\ModuleGraphColor.AssemblyInfo.cs
+D:\Workplace\CSharp\ModuleGraphColor\obj\Debug\net7.0\ModuleGraphColor.csproj.CoreCompileInputs.cache
+D:\Workplace\CSharp\ModuleGraphColor\obj\Debug\net7.0\ModuleGraphColor.dll
+D:\Workplace\CSharp\ModuleGraphColor\obj\Debug\net7.0\refint\ModuleGraphColor.dll
+D:\Workplace\CSharp\ModuleGraphColor\obj\Debug\net7.0\ModuleGraphColor.pdb
+D:\Workplace\CSharp\ModuleGraphColor\obj\Debug\net7.0\ModuleGraphColor.genruntimeconfig.cache
+D:\Workplace\CSharp\ModuleGraphColor\obj\Debug\net7.0\ref\ModuleGraphColor.dll
